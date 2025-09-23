@@ -4,7 +4,7 @@
 .Ruserdata
 
 /.quarto/
-intro_to_rmarkdown.pdf
-intro_to_rmarkdown_cache/
+intro_to_quarto.pdf
+*_cache/
 example_files/
 example_spin_files/
