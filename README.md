@@ -1,12 +1,12 @@
-# Introduction to Rmarkdown/Quarto for Reproducibility
+# Introduction to Quarto for Reproducibility
 
-*Birds Canada Workshop 2023*
+*UNBC Applied Analysis Hub 2025*
 
-**Tuesday April 18th, 2023 12pm-2pm Eastern**
+**Thursday October 2nd, 2025 1pm-3pm Pacific**
 
 Welcome! 
 
-Do you struggle to keep track of your R analyses? Is future-self constantly complaining about past-self's inability to document scripts, data and package versions? Come explore the magic of RMarkdown & Quarto! Turn your R scripts into reproducible reports complete with all the information future-self needs to write up your analyses.
+Do you struggle to keep track of your R analyses? Is future-self constantly complaining about past-self's inability to document scripts, data and package versions? Come explore the magic of Quarto! Turn your R scripts into reproducible reports complete with all the information future-self needs to write up your analyses.
 
 In this workshop we'll learn about Markdown, RMarkdown and Quarto. We'll cover different ways of creating reports from scripts and how to customize the output to maximize beauty as well as reproducibility. You will have the opportunity to learn and practice, and will go home of a collection of resources to help you along your journey. Example scripts will be available, but best is to have your own!
 
@@ -23,11 +23,11 @@ This GitHub repository holds all the information relating to our workshop.
 ## Workshop resources
 
 - Slides
-  - [html](https://steffilazerte.ca/intro_to_rmarkdown/index.html) (best)
-  - [pdf](https://steffilazerte.ca/intro_to_rmarkdown/intro_to_rmarkdown_sm.pdf)
+  - [html](https://steffilazerte.ca/intro_to_quarto/index.html) (best)
+  - [pdf](https://steffilazerte.ca/intro_to_quarto/intro_to_quarto_sm.pdf)
 - Example files
-  - Advanced Template ([code](https://github.com/steffilazerte/intro_to_rmarkdown/blob/main/example.qmd) | [download](https://steffilazerte.ca/intro_to_rmarkdown/example.qmd))
-  - Advanced Template (Spin example) ([code](https://github.com/steffilazerte/intro_to_rmarkdown/blob/main/example_spin.R) | [download](https://steffilazerte.ca/intro_to_rmarkdown/example_spin.R))
+  - Advanced Template ([code](https://github.com/steffilazerte/intro_to_quarto/blob/main/example.qmd) | [download](https://steffilazerte.ca/intro_to_quarto/example.qmd))
+  - Advanced Template (Spin example) ([code](https://github.com/steffilazerte/intro_to_quarto/blob/main/example_spin.R) | [download](https://steffilazerte.ca/intro_to_quarto/example_spin.R))
 
 
 ## Before the workshop
