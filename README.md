@@ -58,7 +58,7 @@ This GitHub repository holds all the information relating to our workshop.
 
 -   Have available an analysis R script to work with (optional)
 
-# Use of this material
+# Use of this material for teaching
 
 Are you an R educator? Do you want to give this workshop?
 
