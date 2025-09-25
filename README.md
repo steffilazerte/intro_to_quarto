@@ -62,7 +62,7 @@ This GitHub repository holds all the information relating to our workshop.
 
 Are you an R educator? Do you want to give this workshop?
 
-Go for it! I would love for you to adapt this material for your own use. It's licensed as GPLv3 which means you can free to copy, adapt, and use this material, but any modifications you make must also be shared under the GPLv3 license.
+Go for it! I would love for you to adapt this material for your own use. It's licensed as GPLv3 which means you can free to copy, adapt, and use this material, but any modifications you make must also be shared under the GPLv3 licence.
 
 Essentially if you use/adapt this material, I hope that you'll pay it forward and share with others.
 
