@@ -57,3 +57,15 @@ This GitHub repository holds all the information relating to our workshop.
     ```
 
 -   Have available an analysis R script to work with (optional)
+
+# Use of this material
+
+Are you an R educator? Do you want to give this workshop?
+
+Go for it! I would love for you to adapt this material for your own use. It's licensed as GPLv3 which means you can free to copy, adapt, and use this material, but any modifications you make must also be shared under the GPLv3 license.
+
+Essentially if you use/adapt this material, I hope that you'll pay it forward and share with others.
+
+I'd love to hear if you use this, how the workshop when (what worked, what didn't, and how you made changes), but that's not a requirement.
+
+Have fun!
