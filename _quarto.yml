@@ -1,7 +1,7 @@
 project:
   title: "Introduction to Quarto"
   render:
-    - "!schedule.md"
+    - "index.qmd"
 
 format: revealjs
 

@@ -707,8 +707,10 @@ Effects of Riparian Grazing on Distinct Water-Extractable Phosphorus Sources ([G
 
 
 
-:::{.fragment fragment-index=1 .absolute top=50% right=0 width=30%}
+:::{.fragment fragment-index=1 .absolute top=45% right=0 width=30%}
 ### Thank you! 
+
+[*Please fill out this [feedback form](https://forms.gle/VTHRDt6eQxkbnyZz9)*]{.small}
 
 ![](https://steffilazerte.ca/images/logo_eg.png)
 [{{< fa globe >}} [steffilazerte.ca](https://steffilazerte.ca)]{.small}<br>
