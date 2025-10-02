@@ -239,9 +239,7 @@ ggplot(data = my_data, aes(x = urbanization, y = songs)) +
 
 ## Quick start
 
-- File > New Project
-- File > New File > Quarto Document [(or R Markdown, if you prefer)]{.small}
-- Add details, click "Create"
+- File > New Project > New/Existing Directory > Quarto Project
 - Click "Render" button in the top panel (Quarto)
   - [or "Knit" button (R Markdown)]{.small}
 
